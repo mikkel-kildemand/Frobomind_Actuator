@@ -1,0 +1,29 @@
+
+Connector P3
+PA0 BITE error 1 - TR-MM215 Output 1
+PA1 BITE error 2 - TR-MM215 Output 2
+PA2 BITE error 3 - TR-MM215 Output 3
+PA3 BITE error 4 - TR-MM215 Output 4
+PF2 TR-MM215 - Encoder 1 (M2)
+PF1 TR-MM215 - Encoder 2 (M1)
+PD0 
+PD1 
+PE0
+PE1  
+VCC [+12-+36 V input power]
+GND [GND / negative input power]
+
+Connector P4
+GND
+PB5 
+PB6 
+PE3 Actuator move - input 2
+PE4 1
+PE5 (external LED)
+VCC
+VCC
+VCC
+GND
+GND
+GND
+
